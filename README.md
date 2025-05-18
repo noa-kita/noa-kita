@@ -1,2 +1,2 @@
-# noa.kita
+# noa-kita
 My GitHub profile and projects
